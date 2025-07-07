@@ -7,6 +7,7 @@ public class Question4 {
         else return x ;
     }
 
+    // taking input from the user.
     public static void main(String[] args) {
     Scanner a = new Scanner(System.in) ;
         try {
